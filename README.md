@@ -1,11 +1,18 @@
-# Hospital Management System (SQL Project)
+# Hospital Management System (Database Backend)
 
-Hospitals are an essential part of human life. They provide the best possible medical facilities to people suffering from different types of illnesses, which may be caused due to climate change, work pressure, emotional trauma, stress, and many other factors.  
+This repository contains the backend architecture and a highly optimized relational database design for a comprehensive Hospital Management System. The system manages core healthcare workflows, including patient admissions, doctor schedules, appointments, and medical billing records.
 
-Since hospitals interact with a large number of patients and staff on a daily basis, it becomes very difficult to maintain records and day-to-day activities manually. To overcome this problem, a **Hospital Management Database** is required to keep track of all activities in a structured manner.
+## 🚀 Key Features
 
-The aim of this project is to demonstrate how data related to hospital operations can be stored, managed, and retrieved efficiently using **MySQL Database Management System**. By storing information in a relational database, hospital tasks such as doctor management, patient history, diagnoses, and procedures can be handled easily and in an organized way.
+- **Optimized Relational Schema:** Engineered and deployed a structured 7-table relational database to manage complex hospital data integrity.
+- **3NF Normalization:** Strictly applied Third Normal Form (3NF) standards to eliminate data redundancy, prevent anomalies, and minimize storage footprints.
+- **Relational Integrity:** Utilizes strongly defined Primary Keys, Foreign Keys, and cascading constraints to ensure transactional stability and secure data relationships.
+- **Advanced Querying:** Pre-configured with efficient SQL queries for complex data retrieval, including patient medical histories and real-time staff availability.
 
+## 🛠️ Tech Stack
+
+- **Database Engine:** SQL / Relational Database Management System (RDBMS)
+- **Design Methodology:** 3NF Normalization, Entity-Relationship (ER) Modeling
 ---
 
 ## 🎯 Objectives of the Project
